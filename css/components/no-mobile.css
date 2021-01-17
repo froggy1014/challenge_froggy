@@ -11,7 +11,7 @@
   align-items: center;
   font-size: 32px;
 }
-@media screen and (max-width: 500px) {
+@media screen and (max-width: 500px) and (min-height: 600px) {
   #no-mobile {
     display: none;
   }
